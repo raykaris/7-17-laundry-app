@@ -41,13 +41,13 @@ const Dashboard: React.FC = () => {
       description: (
         <div className="flex flex-col space-y-2 mt-2">
           <a 
-            href="tel:0751697480" 
+            href="tel:0788448557" 
             className="bg-primary text-white py-2 px-4 rounded-md flex justify-center items-center"
           >
             Call Us
           </a>
           <a 
-            href="https://wa.me/254751697480" 
+            href="https://wa.me/254788448557" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="bg-green-500 text-white py-2 px-4 rounded-md flex justify-center items-center"

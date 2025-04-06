@@ -7,16 +7,16 @@ const ContactPage: React.FC = () => {
     {
       id: 1,
       title: 'Call Us',
-      description: '+254 751 697 480',
+      description: '+254 788 448 557',
       icon: <Phone size={24} />,
-      action: 'tel:0751697480'
+      action: 'tel:0788448557'
     },
     {
       id: 2,
       title: 'WhatsApp',
       description: 'Message us on WhatsApp',
       icon: <Phone size={24} />,
-      action: 'https://wa.me/254751697480'
+      action: 'https://wa.me/254788448557'
     },
     {
       id: 3,
@@ -62,7 +62,7 @@ const ContactPage: React.FC = () => {
           </div>
           <h3 className="font-medium text-gray-900">Our Location</h3>
         </div>
-        <p className="text-gray-600 mb-4">123 Main Street, Town Center, Nairobi, Kenya</p>
+        <p className="text-gray-600 mb-4">Kangaru Market, Embu, Kenya</p>
         <div className="h-40 bg-gray-200 rounded-lg">
           {/* Map placeholder - would be replaced with actual map implementation */}
           <div className="h-full flex items-center justify-center text-gray-400">
