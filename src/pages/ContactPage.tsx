@@ -7,7 +7,7 @@ const ContactPage: React.FC = () => {
     {
       id: 1,
       title: 'Call Us',
-      description: '+254 788 448 557',
+      description: '+254 746 152 146',
       icon: <Phone size={24} />,
       action: 'tel:0746152146'
     },
