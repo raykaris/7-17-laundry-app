@@ -9,14 +9,14 @@ const ContactPage: React.FC = () => {
       title: 'Call Us',
       description: '+254 788 448 557',
       icon: <Phone size={24} />,
-      action: 'tel:0788448557'
+      action: 'tel:0746152146'
     },
     {
       id: 2,
       title: 'WhatsApp',
       description: 'Message us on WhatsApp',
       icon: <Phone size={24} />,
-      action: 'https://wa.me/254788448557'
+      action: 'https://wa.me/254746152146'
     },
     {
       id: 3,

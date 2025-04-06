@@ -59,13 +59,13 @@ const GamingPage: React.FC = () => {
       description: (
         <div className="flex flex-col space-y-2 mt-2">
           <a 
-            href="tel:0788448557" 
+            href="tel:0746152146" 
             className="bg-primary text-white py-2 px-4 rounded-md flex justify-center items-center"
           >
             Call Us
           </a>
           <a 
-            href="https://wa.me/254788448557" 
+            href="https://wa.me/254746152146" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="bg-green-500 text-white py-2 px-4 rounded-md flex justify-center items-center"
