@@ -6,6 +6,9 @@
 This is a personal project which i took to imporve my app development skills. I also wanted to support a friend in their business😂😎. <br>
 It's not yet in deployment tho, but will be available soon.
 
+live at:
+## https://7-17-laundry-app.vercel.app
+
 **Want this Project?**
 
 Follow these steps:
